@@ -1,0 +1,2 @@
+# bot
+translate bot
